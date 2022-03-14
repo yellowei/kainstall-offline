@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.tgz filter=lfs diff=lfs merge=lfs -text
+1.23.1_ubuntu20.04.tgz filter=lfs diff=lfs merge=lfs -text
